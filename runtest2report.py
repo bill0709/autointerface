@@ -15,4 +15,4 @@ if __name__ == '__main__':
     runner.run(discover)
     fp.close()
     print '********'
-    print 'kkkkkk'
+    print 'update'

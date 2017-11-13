@@ -14,7 +14,7 @@ if __name__ == '__main__':
     runner = HTMLTestRunner(stream=fp, title=u'自动化接口测试报告', description=u'以下用例执行情况:')
     runner.run(discover)
     fp.close()
-    print ' new person modify'
-    print 'i am new person join pro'
+    print 'modify first'
     print 'old person update'
+    print 'old person update everyday branch'
 

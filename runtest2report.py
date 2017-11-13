@@ -18,3 +18,6 @@ if __name__ == '__main__':
     print 'old person update'
     print 'old person update everyday branch'
 
+    print 'new devopled'
+    print 'new devopled2'
+

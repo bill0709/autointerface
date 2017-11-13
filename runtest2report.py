@@ -17,7 +17,8 @@ if __name__ == '__main__':
     print 'modify first'
     print 'old person update'
     print 'old person update everyday branch'
-
+    print '********'
     print 'new devopled'
     print 'new devopled2'
+    print '********'
 

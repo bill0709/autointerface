@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # #coding:utf-8
 import unittest
 import time
@@ -17,4 +17,6 @@ if __name__ == '__main__':
     print 'modify first'
     print 'old person update'
     print 'old person update everyday branch'
+    print ' new person modify'
+    print 'i am new person join pro'
 

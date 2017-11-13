@@ -23,8 +23,13 @@ if __name__ == '__main__':
     print '***********'
 =======
     print '********'
+<<<<<<< HEAD
 >>>>>>> everyday
     print 'new devopled'
     print 'new devopled2'
+=======
+    print '********'
+    print '********'
+>>>>>>> everyday
     print '********'
 

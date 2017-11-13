@@ -15,4 +15,5 @@ if __name__ == '__main__':
     runner.run(discover)
     fp.close()
     print 'modify first'
+    print 'old person update'
 

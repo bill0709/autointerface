@@ -20,3 +20,6 @@ if __name__ == '__main__':
     print ' new person modify'
     print 'i am new person join pro'
 
+    print 'new devopled'
+    print 'new devopled2'
+

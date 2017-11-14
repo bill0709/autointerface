@@ -17,19 +17,13 @@ if __name__ == '__main__':
     print 'modify first'
     print 'old person update'
     print 'old person update everyday branch'
-<<<<<<< HEAD
     print ' new person modify'
     print 'i am new person join pro'
     print '***********'
-=======
     print '********'
-<<<<<<< HEAD
->>>>>>> everyday
     print 'new devopled'
     print 'new devopled2'
-=======
     print '********'
     print '********'
->>>>>>> everyday
     print '********'
 
